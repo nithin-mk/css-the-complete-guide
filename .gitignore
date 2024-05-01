@@ -1,2 +1,5 @@
 __MACOSX/
 .DS_Store
+*.css
+*.css.map
+.sass-cache/
